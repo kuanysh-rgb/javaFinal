@@ -1,0 +1,25 @@
+.loginBlock{
+    width: 70%;
+    text-align: center;
+    border-radius: 16px;
+    margin-top: 20vh;
+    background-color: rgb(25, 39, 52);
+    padding: 2%;
+}
+
+
+.loginBlock button{
+    color: #fff;
+    width: 50%;
+    background-color: #17a3f2;
+}
+
+form{
+    display: inline-block;
+}
+
+.loginBlock p{
+    font-weight: bold;
+    font-size: 16px;
+    color: #fff;
+}
